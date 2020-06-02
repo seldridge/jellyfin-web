@@ -60,8 +60,8 @@ const PLAYER_STATE = {
 
 // production version registered with google
 // replace this value if you want to test changes on another instance
-const applicationStable = 'F007D354';
-const applicationUnstable = '6F511C87';
+const applicationStable = '6F511C87';
+const applicationUnstable = '615E82CF';
 
 const messageNamespace = 'urn:x-cast:com.connectsdk';
 
